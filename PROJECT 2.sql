@@ -134,6 +134,9 @@ INSERT INTO works_with VALUES(102, 406, 15000);
 INSERT INTO works_with VALUES(105, 406, 130000);
 
 
+
+
+-- WORKING AREA FOR MY PROJECT
 -- Displaying duplicates from a table
 SELECT *
 FROM (
